@@ -1,0 +1,22 @@
+{
+  "sourceRunVerifiedAtUtc": "2026-11-15T07:45:22.831865Z",
+  "publicationCandidateVerifiedAtUtc": "2026-11-21T20:24:04.659885Z",
+  "packageVersion": "0.1.22",
+  "simulatedCredential": true,
+  "pendingExecutionRefused": true,
+  "approvedExecutionSanitized": true,
+  "fakeValueAbsentFromReturnedOutput": true,
+  "executedRequestCannotBeReused": true,
+  "nextEquivalentRequestState": "pending",
+  "disposableStateRemoved": true,
+  "video": {
+    "codec": "h264",
+    "width": 1600,
+    "height": 900,
+    "durationSeconds": 56,
+    "silent": true,
+    "readingPaceEdited": true,
+    "liveUiCapture": false,
+    "approvalPerformedByDemoScript": true
+  }
+}
